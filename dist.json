@@ -1,0 +1,62 @@
+{
+  "en": {
+    "moduleA": {
+      "functionA": {
+        "body": "body",
+        "subFunctionA": {
+          "grandFunc": {
+            "canvas": "canvas"
+          },
+          "input": "input"
+        },
+        "subFunctionB": {
+          "p": "p"
+        }
+      },
+      "functionB": {
+        "h1": "h1"
+      },
+      "video": "video",
+      "subFunctionC": {
+        "p": "p"
+      },
+      "nav": "nav"
+    },
+    "moduleB": {
+      "footer": "footer"
+    },
+    "moduleC": {
+      "header": "header"
+    }
+  },
+  "zh": {
+    "moduleA": {
+      "functionA": {
+        "body": "主体",
+        "subFunctionA": {
+          "grandFunc": {
+            "canvas": "画布"
+          },
+          "input": "输入框"
+        },
+        "subFunctionB": {
+          "p": "段落"
+        }
+      },
+      "functionB": {
+        "h1": "一级标题"
+      },
+      "video": "视频",
+      "subFunctionC": {
+        "p": "段落"
+      },
+      "nav": "导航"
+    },
+    "moduleB": {
+      "footer": "底部"
+    },
+    "moduleC": {
+      "header": "头部"
+    }
+  }
+}
